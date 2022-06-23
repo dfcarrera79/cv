@@ -1,0 +1,47 @@
+body {
+    background-color: #f6f6f6;
+}
+
+hr {
+    background-color: #406882;
+    border-style: none;
+    height: 2px;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
+
+h1 {
+    color: #3A5BA0;
+    font-family: 'Century Gothic';
+}
+
+h2 {
+    color: #406882;
+    font-family: 'Century Gothic';
+}
+
+h3 {
+    color: #406882;
+    font-family: 'Century Gothic';
+}
+
+p {
+    font-family: 'Century Gothic';
+    text-align: justify;
+    hyphens: auto;
+}
+
+table {
+    font-family: 'Century Gothic';
+}
+
+ul {
+    font-family: 'Century Gothic';
+}
+
+td {
+    padding: 3px;
+}
